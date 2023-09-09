@@ -226,7 +226,8 @@ class Highlight extends ModuleAbstract {
 		'nim'            => 'Nim',
 		'node-repl'      => 'Node.js REPL',
 		'php-template'   => 'PHP Template',
-		'python-repl'    => 'Python REPL'
+		'python-repl'    => 'Python REPL',
+		'plaintext'			 => 'Plain text'
 	);
 
 	/**
